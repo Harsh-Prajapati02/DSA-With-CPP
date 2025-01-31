@@ -20,7 +20,7 @@ Each method offers unique insights into arithmetic operations, memory optimizati
 **Description:**  
 This method uses an extra variable to temporarily hold one value while swapping the numbers.  
 
-**Code Implementation:** [swap_with_temp.cpp](swap_with_temp.cpp)  
+**Code Implementation:** [swap_with_temp.cpp](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Swapping-Techniques/swap_with_temp.cpp)  
 
 ---
 
@@ -28,7 +28,7 @@ This method uses an extra variable to temporarily hold one value while swapping 
 **Description:**  
 Instead of using an extra variable, this method uses simple arithmetic operations (`+` and `-`) to swap values.  
 
-**Code Implementation:** [swap_without_temp.cpp](swap_without_temp.cpp)  
+**Code Implementation:** [swap_without_temp.cpp](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Swapping-Techniques/swap_without_temp.cpp)  
 
 ---
 
@@ -36,7 +36,7 @@ Instead of using an extra variable, this method uses simple arithmetic operation
 **Description:**  
 This approach eliminates the use of addition and subtraction and instead relies on multiplication and division.  
 
-**Code Implementation:** [swap_without_plus_minus.cpp](swap_without_plus_minus.cpp)  
+**Code Implementation:** [swap_without_plus_minus.cpp](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Swapping-Techniques/swap_without_plus_minus.cpp)  
 
 ---
 
@@ -44,7 +44,7 @@ This approach eliminates the use of addition and subtraction and instead relies 
 **Description:**  
 This method leverages the XOR bitwise operator (`^`) to swap two numbers efficiently without using arithmetic operations.  
 
-**Code Implementation:** [swap_using_xor.cpp](swap_using_xor.cpp)  
+**Code Implementation:** [swap_using_xor.cpp](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Swapping-Techniques/swap_using_xor.cpp)  
 
 ---
 
