@@ -1,6 +1,6 @@
 # 🚀 C++ Conditional Programs  
 
-This repository contains **C++ programs** that utilize **if-else statements** to solve real-world problems, including **voting eligibility checks, divisibility tests, number classifications, student grading, shopping bill calculations, and electricity bill computations**.  
+This repository contains **C++ programs** that utilize **if-else statements** to solve real-world problems, including **voting eligibility checks, divisibility tests, number classifications, student grading, shopping bill calculations, electricity bill computations, and finding the maximum number from 2, 3, or 4 inputs**.  
 
 Each program is structured to ensure **accuracy, proper validation, and efficient execution**.  
 
@@ -48,6 +48,24 @@ Each program is structured to ensure **accuracy, proper validation, and efficien
    - **101 - 150 units** → ₹8/unit  
    - **151+ units** → ₹9/unit  
 🔹 Ensures **negative values are not accepted**.  
+
+---
+
+## 🔢 Maximum Number Finder Programs  
+
+### **7️⃣ Find Maximum of Two Numbers (`MaxFinder_2Nums.cpp`)**  
+🔹 Compares **two numbers** and prints the largest.  
+🔹 Handles cases where both numbers are **equal**.  
+
+### **8️⃣ Find Maximum of Three Numbers (`MaxFinder_3Nums.cpp`)**  
+🔹 Compares **three numbers** and prints the largest.  
+🔹 Detects **ties** if two or more numbers are equal.  
+🔹 Special case: **All three numbers being equal** is handled properly.  
+
+### **9️⃣ Find Maximum of Four Numbers (`MaxFinder_4Nums.cpp`)**  
+🔹 Compares **four numbers** to determine the largest.  
+🔹 Uses **nested if-else** for structured decision-making.  
+🔹 Checks for equality and **detects ties** when multiple numbers are the maximum.  
 
 ---
 
