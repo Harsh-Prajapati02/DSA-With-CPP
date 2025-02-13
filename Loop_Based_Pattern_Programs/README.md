@@ -30,43 +30,54 @@ This folder holds **unique and advanced patterns**, such as **wave patterns** an
 ### **📁 1️⃣ Number Patterns**  
 
 #### ✅ **Ascending Numbers**  
-**Description:** Prints numbers in an increasing order from 1 to N, forming a right-angled triangular pattern.  
+**Description:** Prints numbers in an increasing order from 1 to N, forming a right-angled triangular pattern. 
+
 📄 **File:** [`Ascending_Numbers.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Number_Patterns/Ascending_Numbers.cpp)  
 
 #### ✅ **Reverse Ascending Numbers**  
 **Description:** Prints numbers in reverse order per row, forming a mirrored right-angled triangle.  
+
 📄 **File:** [`Reverse_Ascending_Numbers.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Number_Patterns/Reverse_Ascending_Numbers.cpp)  
 
 #### ✅ **Pyramid Numbers**  
 **Description:** Prints numbers in a pyramid structure where each row contains repeated numbers.  
+
 📄 **File:** [`Pyramid_Numbers.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Number_Patterns/Pyramid_Numbers.cpp)  
 
 #### ✅ **Descending Numbers**  
 **Description:** Displays numbers in descending order with a decreasing number of columns.  
+
 📄 **File:** [`Descending_Numbers.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Number_Patterns/Descending_Numbers.cpp)  
 
 #### ✅ **Increasing Row Numbers**  
 **Description:** Each row starts with a different number and increases sequentially.  
+
 📄 **File:** [`Increasing_Row_Numbers.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Number_Patterns/Increasing_Row_Numbers.cpp)  
 
 #### ✅ **Reverse Pyramid Numbers**  
 **Description:** A pyramid where each row has decreasing numbers forming a reverse structure.  
+
 📄 **File:** [`Reverse_Pyramid_Numbers.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Number_Patterns/Reverse_Pyramid_Numbers.cpp)  
 
 #### ✅ **Mirror Number Pattern**  
 **Description:** Prints a mirrored sequence where numbers start from the largest and decrease.  
+
 📄 **File:** [`Mirror_Number_Pattern.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Number_Patterns/Mirror_Number_Pattern.cpp)  
 
 #### ✅ **Reverse Number Pyramid**  
 **Description:** Displays a pyramid in **reverse number order**.  
+
 📄 **File:** [`Reverse_Number_Pyramid.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Number_Patterns/Reverse_Number_Pyramid.cpp)  
 
 #### ✅ **Decreasing Same Number Pyramid**  
 **Description:** Prints a **decreasing pyramid** where numbers repeat in rows.  
+
+
 📄 **File:** [`Decreasing_Same_Number_Pyramid.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Number_Patterns/Decreasing_Same_Number_Pyramid.cpp)  
 
 #### ✅ **Continuous Number Pyramid**  
 **Description:** Prints a **continuous number** pyramid without restarting from 1.  
+
 📄 **File:** [`Continuous_Number_Pyramid.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Number_Patterns/Continuous_Number_Pyramid.cpp)  
 
 ---
@@ -75,18 +86,22 @@ This folder holds **unique and advanced patterns**, such as **wave patterns** an
 
 #### ✅ **Binary Triangle**  
 **Description:** Prints a **triangle pattern** using alternating binary digits (0 and 1), where each row contains a binary sequence.  
+
 📄 **File:** [`Binary_Triangle.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Binary_Patterns/Binary_Triangle.cpp)  
 
 #### ✅ **Reverse Binary Triangle**  
-**Description:** Prints a **reversed binary triangle**, where the number of elements decreases with each row, following a binary sequence.  
+**Description:** Prints a **reversed binary triangle**, where the number of elements decreases with each row, following a binary sequence. 
+
 📄 **File:** [`Reverse_Binary_Triangle.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Binary_Patterns/Reverse_Binary_Triangle.cpp)  
 
 #### ✅ **Alternating Binary Pattern**  
-**Description:** Generates a **pattern of alternating 1s and 0s**, forming a structured layout where the placement alternates across rows.  
+**Description:** Generates a **pattern of alternating 1s and 0s**, forming a structured layout where the placement alternates across rows.
+ 
 📄 **File:** [`Alternating_Binary_Pattern.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Binary_Patterns/Alternating_Binary_Pattern.cpp)  
 
 #### ✅ **Checkerboard Binary Pattern**  
 **Description:** Creates a **checkerboard-style binary pattern**, where 0s and 1s alternate across the rows and columns.  
+
 📄 **File:** [`Checkerboard_Binary_Pattern.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Binary_Patterns/Checkerboard_Binary_Pattern.cpp)  
 
 ---
@@ -94,11 +109,13 @@ This folder holds **unique and advanced patterns**, such as **wave patterns** an
 ### **📁 3️⃣ Star Patterns**  
 
 #### ✅ **Right-Angle Triangle Stars**  
-**Description:** Prints a **right-angled triangle** using stars (`*`).  
+**Description:** Prints a **right-angled triangle** using stars (`*`). 
+
 📄 **File:** [`Right_Angle_Triangle_Stars.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Star_Patterns/Right_Angle_Triangle_Stars.cpp)  
 
 #### ✅ **Inverted Right-Angle Triangle Stars** 
-**Description:** Prints an **inverted right-angled** star pattern.  
+**Description:** Prints an **inverted right-angled** star pattern.
+ 
 📄 **File:** [`Inverted_Right_Angle_Stars.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Star_Patterns/Inverted_Right_Angle_Stars.cpp)  
 
 ---
@@ -106,7 +123,8 @@ This folder holds **unique and advanced patterns**, such as **wave patterns** an
 ### **📁 4️⃣ Alphabet Patterns**  
 
 #### ✅ **Alphabet Triangle** 
-**Description:** Prints an **alphabet-based triangle** with increasing characters.  
+**Description:** Prints an **alphabet-based triangle** with increasing characters. 
+
 📄 **File:** [`Alphabet_Triangle.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Alphabet_Patterns/Alphabet_Triangle.cpp)  
 
 #### ✅ **Sequential Alphabet Pattern**  
