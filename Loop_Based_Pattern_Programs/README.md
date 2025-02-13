@@ -134,7 +134,7 @@ This folder holds **unique and advanced patterns**, such as **wave patterns** an
 ## 🔗 Connect with Me  
 
 - 💼 **LinkedIn:** [Harsh Prajapati](https://www.linkedin.com/in/harsh-prajapati02/)  
-- 🏆 **GitHub:** [Harsh-Prajapati02](https://github.com/Harsh-Prajapati02)  
+- 🏆 **GitHub:** [Harsh Prajapati](https://github.com/Harsh-Prajapati02)  
 
 ---
 
