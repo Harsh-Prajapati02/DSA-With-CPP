@@ -111,6 +111,7 @@ This folder holds **unique and advanced patterns**, such as **wave patterns** an
 
 #### ✅ **Sequential Alphabet Pattern**  
 **Description:** Prints sequential alphabet characters forming different rows.
+
 📄 **File:** [`Sequential_Alphabet_Pattern.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Alphabet_Patterns/Sequential_Alphabet_Pattern.cpp)  
 
 ---
