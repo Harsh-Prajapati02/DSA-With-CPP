@@ -118,7 +118,9 @@ This folder holds **unique and advanced patterns**, such as **wave patterns** an
 ### **📁 5️⃣ Special Patterns**  
 
 #### ✅ **Wave Pattern**  
-📄 **File:** [`Wave_Pattern.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Special_Patterns/Wave_Pattern.cpp)  
+**Description:** Generates a **wave-like pattern** using vertical (`|`) and horizontal (`-`) symbols. The pattern alternates between these symbols in a structured format, creating a wave effect across multiple rows. This is useful for practicing **character-based pattern printing** and understanding **nested loop logic**.  
+
+📄 **File:** [`Wave_Pattern.cpp`](https://github.com/Harsh-Prajapati02/DSA-With-CPP/blob/main/Loop_Based_Pattern_Programs/Special_Patterns/Wave_Pattern.cpp)   
 
 ---
 
