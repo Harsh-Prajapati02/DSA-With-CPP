@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-int sum(int num)
+long long factorial(int num)
 {
-    int sum = 0;
+    long long fact = 1;
     for (int i = 1; i <= num; i++)
     {
-        sum += i;
+        fact *= i;
     }
-    return sum;
+    return fact;
 }
 
 int main()
@@ -17,6 +17,6 @@ int main()
     cout << "Enter a number: ";
     cin >> num;
 
-    cout << "Sum from 1 to " << num << " is: " << sum(num) << endl;
+    cout << "Factorial of " << num << " is: " << factorial(num) << endl;
     return 0;
 }
